@@ -1,0 +1,1 @@
+Resposta do "Mapeando o dominio", disponível no arquivo "domain-mapping-response.txt"
